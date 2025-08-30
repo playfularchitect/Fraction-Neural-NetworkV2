@@ -133,4 +133,3 @@ The work proves that exact arithmetic in neural networks is not only possible bu
 
 ---
 
-*This analysis demonstrates the viability of exact fractional neural networks for specialized applications requiring perfect reproducibility and mathematical transparency, while acknowledging the computational trade-offs that limit their broader applicability.*
