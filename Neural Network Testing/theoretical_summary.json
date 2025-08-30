@@ -1,0 +1,20 @@
+{
+  "experiment_type": "theoretical_analysis",
+  "fractional_network": {
+    "perfect_reproducibility": true,
+    "final_accuracy_mean": 0.7923,
+    "final_accuracy_std": 0.0,
+    "avg_training_time": 233.30000000000004,
+    "max_denominator": 15629847
+  },
+  "floating_point_network": {
+    "final_accuracy_mean": 0.7920999726836274,
+    "final_accuracy_std": 6.860715488209375e-08,
+    "avg_training_time": 3.0143481707379745
+  },
+  "key_findings": {
+    "speed_ratio": 77.39650059829798,
+    "reproducibility_advantage": "fractional",
+    "accuracy_difference": 0.0002000273163725863
+  }
+}
